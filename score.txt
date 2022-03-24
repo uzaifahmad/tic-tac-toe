@@ -1,0 +1,9 @@
+Score Card
+
+uzaif - 0   tanzeel - 0
+UZAIF - 1   TANZEEL - 0
+uzaif - 1   tanzeel - 0
+rishi - 1   uzaif - 0
+adarsh - 1   hrish - 0
+rishabh - 1   uzaif - 0
+rishabh - 2   Uzaif - 1
